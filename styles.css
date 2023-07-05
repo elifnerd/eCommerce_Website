@@ -1,14 +1,11 @@
 h1 {
     color:white;
-    background-image: url("earl-wilcox-y3W0CzO063w-unsplash-alt.jpg");
+    background-image: url(/Users/elisabethellwanger/Desktop/devCodeCamp/Week10/eCommerce_Website/assets/earl-wilcox-y3W0CzO063w-unsplash-alt.jpg);
     background-repeat: no-repeat;
     background-position: top;
     background-attachment: scroll;
 }
 
-h2 {
-    color:white;
-}
 
 body {
     font-family: Segoe 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -38,6 +35,26 @@ nav li {
     margin-right: 0.5rem;
 }
 
+.home {
+    display:flex
+
+}
+
+.about {
+    display:flex
+}
+
+.products {
+    display: grid
+}
+
+.contact {
+    display: flex
+}
+
+footer {
+    display:flex
+}
 
 
 *,
