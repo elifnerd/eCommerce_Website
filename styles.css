@@ -1,0 +1,28 @@
+h1 {
+    color:white;
+}
+
+h2 {
+    color:white;
+}
+
+h3 {
+    color: black;
+}
+
+h4 {
+    color: black;
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
